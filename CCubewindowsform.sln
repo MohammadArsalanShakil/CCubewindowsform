@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCubewindowsform", "CCubewindowsform\CCubewindowsform.csproj", "{FF5C6430-15B5-4FF8-9353-A9D265EC2136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingLogic", "ProgrammingLogic\ProgrammingLogic.csproj", "{D1897675-160C-4C55-A838-F12AE624264E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5C6430-15B5-4FF8-9353-A9D265EC2136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5C6430-15B5-4FF8-9353-A9D265EC2136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5C6430-15B5-4FF8-9353-A9D265EC2136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5C6430-15B5-4FF8-9353-A9D265EC2136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1897675-160C-4C55-A838-F12AE624264E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1897675-160C-4C55-A838-F12AE624264E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1897675-160C-4C55-A838-F12AE624264E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1897675-160C-4C55-A838-F12AE624264E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C7B9FA-650B-44BF-8189-783555EA997A}
+	EndGlobalSection
+EndGlobal
